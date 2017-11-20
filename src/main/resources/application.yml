@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:admin@ds113636.mlab.com:13636/mvarlicspringdb
+    rest:
+      base-path: /api
